@@ -1,11 +1,17 @@
 # Fighter-HUD-System
- The Fighter HUD System is realistic and high fidelity. It is suitable for developing flight simulation games when you use Unity3D Engine.
+The Fighter HUD System is suitable for developing flight simulation games when you use Unity3D Engine.
 
 It is very easy to use in your own project,just need a few steps:
 
-- 1. drag and drop the HUD Canvas prefab to your scene.
-- 2. link a reference to the transform of your fighter.
-- 3. link a reference to the Main Camera.
+1.drag and drop the HUD Canvas prefab to your scene.
+2.link a reference to the transform of your fighter.
+3.link a reference to the Main Camera.
+
+![image](https://github.com/swordmaster003/Fighter-HUD-System/blob/master/Screenshots/Cover.png)
+
+## Support Unity Versions
+
+5.6.6 or higher
 
 ## Download
 
